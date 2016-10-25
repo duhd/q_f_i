@@ -1,7 +1,7 @@
 Questions For Interviewer
 =========================
 
-Be Ready When The Interviewer Asks __Do You Have Any Questions?__
+Be Ready When The Interviewer Asks __Do You Have Any Questions?__ (Only DevOps/SysAdmin candidate)
 
 ## 1. Technical
 
@@ -27,3 +27,18 @@ Be Ready When The Interviewer Asks __Do You Have Any Questions?__
 - What role of DevOps/Sysadmin in your company?
 - What do you think when people say system team doesn't understand biz logic and doesn't create value?
 - What do you think when people say sysadmin have a lot of free time?
+- What are the core values of the company?
+- Where do you see the company going over the next 5 years?
+
+## 4. Manager
+
+- What is your management philosophy?
+
+## 5. Tips
+
+- Be nice and positive when answer or ask
+- Say thank you afterward
+
+## 6. Ref
+
+- [http://katemats.com/hiring-interviews/](http://katemats.com/hiring-interviews/)
